@@ -1,0 +1,14 @@
+2018年9月19日 29个大类 Resnet50,DRN-A 都只有90% 准确率
+DenseNet121  256,288 都是一样, 89%
+
+DenseNet121 valid 0.894
+DRN_A34-010-0.892
+DRN_A34-006-0.904
+MobileNetV2-019-0.883
+
+
+修改最后部分， last conv 19*19
+myXception-018-train0.9574_val0.948
+
+DRN_A using seperable conv structure instead of resnet (256,256,3)
+my_DRN_A_Xception-006-train0.9427_val0.929

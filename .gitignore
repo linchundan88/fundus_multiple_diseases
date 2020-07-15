@@ -1,0 +1,11 @@
+.idea/
+/LIBS/DB/db_config.json
+*.sqlite
+__pycache__/
+LIBS/__pycache__/
+*.hdf5
+*.h5
+*.csv
+Neovascularization(Deprecated)/
+DLP_multi_class(Deprecated)/
+

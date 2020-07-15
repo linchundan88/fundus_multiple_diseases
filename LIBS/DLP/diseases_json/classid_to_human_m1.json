@@ -1,0 +1,10 @@
+{
+    "diseases":[
+        {"NO":0,"NAME":"Fundus image "},
+        {"NO":1,"NAME":"Ocular surface image"},
+        {"NO":2,"NAME":"Natural image"}
+    ]
+}
+
+
+

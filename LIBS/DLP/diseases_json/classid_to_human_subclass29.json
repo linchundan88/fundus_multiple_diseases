@@ -1,0 +1,9 @@
+{
+    "diseases":[
+        {"NO":0,"NAME":"Blur fundus without PDR"},
+        {"NO":1,"NAME":"Blur fundus with suspected PDR"}
+    ]
+}
+
+
+

@@ -1,0 +1,39 @@
+
+Create table tb_multi_labes_2020_2_29_backup (Select * from tb_multi_labels);
+
+select * from  tb_multi_labels  where pic_filename like
+'%multi_labels_2919_1_15%'
+
+
+select * from  tb_multi_labels  where pic_filename like
+'%multi_labels_2020_2_23%'
+
+
+update tb_multi_labels set pic_filename =
+ replace (`pic_filename`,'multi_labels_2919_1_15','multi_labels_2919_1_15/original')
+where pic_filename like '%multi_labels_2919_1_15%'
+
+update tb_multi_labels set pic_filename =
+ replace (`pic_filename`,'multi_labels_2020_2_23','multi_labels_2020_2_23/original')
+where pic_filename like '%multi_labels_2020_2_23%'
+
+
+update tb_multi_labels set pic_filename =
+ replace (`pic_filename`,'multi_labels_2919_1_15/original','original/multi_labels_2919_1_15')
+where pic_filename like '%multi_labels_2919_1_15%'
+
+update tb_multi_labels set pic_filename =
+ replace (`pic_filename`,'multi_labels_2020_2_23/original','original/multi_labels_2020_2_23')
+where pic_filename like '%multi_labels_2020_2_23%'
+
+update tb_multi_labels set set patient_id=sha1 where
+where  patient_id = ''
+
+
+update tb_multi_labels set pic_filename =
+ replace (`pic_filename`,'/media/ubuntu/data1/original','/media/ubuntu/data1/multi_labels_2020_2_29/original')
+where pic_filename like '%multi_labels_2020_2_23%'  or pic_filename like '%multi_labels_2919_1_15%'
+
+
+
+

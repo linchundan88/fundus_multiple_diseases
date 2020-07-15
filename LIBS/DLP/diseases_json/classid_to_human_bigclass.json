@@ -1,0 +1,36 @@
+{
+    "diseases":[
+        {"NO":0,"NAME":"Nonreferable"},
+        {"NO":1,"NAME":"Referable DR"},
+        {"NO":2,"NAME":"RVO"},
+        {"NO":3,"NAME":"RAO"},
+        {"NO":4,"NAME":"Rhegmatogenous RD"},
+        {"NO":5,"NAME":"Posterior serous/exudative RD"},
+        {"NO":6,"NAME":"Maculopathy"},
+        {"NO":7,"NAME":"ERM"},
+        {"NO":8,"NAME":"MH"},
+        {"NO":9,"NAME":"Pathological myopia"},
+        {"NO":10,"NAME":"Optic nerve degeneration"},
+        {"NO":11,"NAME":"Severe hypertensive retinopathy"},
+        {"NO":12,"NAME":"Disc swelling and elevation"},
+        {"NO":13,"NAME":"Dragged Disc"},
+        {"NO":14,"NAME":"Congenital disc abnormality"},
+        {"NO":15,"NAME":"Pigment degeneration"},
+        {"NO":16,"NAME":"Peripheral retinal degeneration"},
+        {"NO":17,"NAME":"Myelinated nerve fiber"},
+        {"NO":18,"NAME":"Vitreous particles"},
+        {"NO":19,"NAME":"Fundus neoplasm"},
+        {"NO":20,"NAME":"Hard exudates"},
+        {"NO":21,"NAME":"Yellow-white spots/flecks"},
+        {"NO":22,"NAME":"Cotton-wool spots"},
+        {"NO":23,"NAME":"Vessel tortuosity"},
+        {"NO":24,"NAME":"Chorioretinal atrophy/coloboma"},
+        {"NO":25,"NAME":"Preretinal hemorrhage"},
+        {"NO":26,"NAME":"Fibrosis"},
+        {"NO":27,"NAME":"Laser spots"},
+        {"NO":28,"NAME":"Silicon oil in eye"},
+        {"NO":29,"NAME":"Blur fundus"}
+
+    ]
+}
+
