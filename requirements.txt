@@ -15,7 +15,7 @@ keras-resnet==0.1.0
 matplotlib==3.0.3
 mysqlclient==1.4.0
 numpy==1.15.4
-opencv-python==3.4.2.17
+opencv-python==4.2.0.32
 pandas==0.24.1
 Pillow==5.4.1
 py==1.7.0
